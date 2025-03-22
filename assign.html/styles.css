@@ -3,12 +3,10 @@ h1 {
 }
 
 h2 {
-    Color: #00aeff
+    Color: #1100ff
 }
-CSS (style.css)
-css
-Copy code
-/* General Reset */
+
+
 * {
     margin: 0;
     padding: 0;
@@ -21,9 +19,9 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Header */
+
 header {
-    background-color: #3a83f1;
+    background-color: hsl(199, 87%, 59%);
     color: white;
     padding: 20px 0;
 }
@@ -37,7 +35,7 @@ h1 {
     font-size: 2.5rem;
 }
 
-/* Footer */
+
 footer {
     background-color: #0ea0f5;
     color: white;
