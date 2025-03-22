@@ -3,11 +3,12 @@ h1 {
 }
 
 h2 {
-    Color: blue
+    Color: blue;
 }
-CSS (style.css)
-css
-Copy code
+
+h3 {
+    Color:rgb(2, 2, 19);
+}
 /* General Reset */
 * {
     margin: 0;

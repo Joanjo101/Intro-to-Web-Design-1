@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(240, 130, 130)
+    color: rgba(226, 229, 236, 0.884)
 }
 
 h2 {
@@ -14,10 +14,11 @@ body {
 
 
 header {
-    background-color: hsl(199, 87%, 59%);
+    background-color: hsl(120, 37%, 43%);
     color: white;
     padding: 20px 0;
-    text-align: centre;
+    text-align: center;
+    
 }
 
 h1 {
@@ -40,16 +41,19 @@ footer p {
 }
 
 #nav {
-    background-color: black;
+    background-color: rgb(5, 99, 55);
      color: burlywood;
      padding: 10px 0;
-     text-align: centre;
+     text-align: left;
 }    
     
 #nav a {
-    color: rgb(18, 3, 53);
+    color: hsl(135, 94%, 7%);
     text-decoration: overline;
     font-size: 1;
-    margin: 0;
+    margin: 8px;
 }
     
+#nav a:hover{
+    background-color: aqua;
+}
