@@ -6,6 +6,12 @@ h2 {
     Color: #1100ff
 }
 
+#banner {
+    background-color: yellowgreen
+    
+    
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -18,6 +24,7 @@ header {
     color: white;
     padding: 20px 0;
     text-align: center;
+    text-decoration: none;
     
 }
 
@@ -27,33 +34,34 @@ h1 {
 }
 
 
-footer {
-    background-color: #0ea0f5;
+#footer, footer{
+    background-color: rgba(241, 113, 113, 0.89);
     color: white;
     padding: 10px 0;
     text-align: center;
 }
 
-footer p {
+#footer p,footer p{
     text-decoration: overline;
     font-size: 1.rem; 
     margin: 0;
 }
 
-#nav {
+#nav, nav{
     background-color: rgb(5, 99, 55);
      color: burlywood;
      padding: 10px 0;
      text-align: left;
 }    
     
-#nav a {
+#nav a, nav a{
     color: hsl(135, 94%, 7%);
     text-decoration: overline;
     font-size: 1;
     margin: 8px;
 }
     
-#nav a:hover{
-    background-color: aqua;
+#main, main{
+    width:80%;
+    margin: 0 auto;
 }
