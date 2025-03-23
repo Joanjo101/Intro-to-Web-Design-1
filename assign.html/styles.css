@@ -1,13 +1,17 @@
 h1 {
-    color: rgba(226, 229, 236, 0.884)
+    color: rgb(10, 10, 9)
 }
 
 h2 {
     Color: #1100ff
 }
 
+h3 {
+    Color:  red;
+} 
+
 #banner {
-    background-color: yellowgreen
+    background-color: yellow
     
     
 }
